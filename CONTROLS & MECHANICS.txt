@@ -1,0 +1,28 @@
+CONTROLS:
+Movement - W,A,S,D
+Core ability (Magnet)(400 energy) - Space Bar
+Enable/Disable primary weapon - E
+Enable/Disable secondary weapon - Q
+Interact- Tab
+
+MECHANICS:
+Heat bar (Above the robot) - When shooting a primary or secundary your heat bar will rise, at 100% heat you become over heatead, while over heated you recive half of your
+			     health as damage and can't shoot.
+
+Yellow Arrow - Indicates the way to the weapons chest
+
+Weapons chest - You can break the chest by dealing damage to it, when broke it drop a weapon, you can press interact (tab) to switch one of your weapons with the new one.
+		The color of the chest represent his rarity, Green - Normal weapon, Blue - Rare Weapon, Red - Legendary Weapon
+
+Green Arrow - Indicates the way to a weapon you left behind
+
+Orange Arrow - Indicates the way to the boss altar, only appear after 3 minutes in the level
+
+Boss Altar - When you interact(tab) with it, it summons a Boss enemy and start the boss fight
+
+Boss Fight - At the Start of the boss fight 3 crystal will spawn with the boss, You can`t do damage to the boss until the 3 crystals are destroy, each second they are alive
+	     the crystal will grant the boss damage and health.
+
+Teleporter - Afther killing the boss, a teleporter will appear in the Boss altar location.
+	     When you interact(tab) with it, you will be teleporter to a new level, leaving behind all exp or weapons in the ground. After the teleport a new chest will appear
+	     and after 3 minutes a new Boss altar also appear.
